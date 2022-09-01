@@ -1,0 +1,2 @@
+IncludeDirectories = {}
+IncludeDirectories["$$"]          = "%{wks.location}/$$/src/"
